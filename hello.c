@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main(){
-   printf("hello");
-   printf("Kuy git");
-   printf("Kuy git");
+   printf("Kuy pond");
+   
    return 0;
 
 }
